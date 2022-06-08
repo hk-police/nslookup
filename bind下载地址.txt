@@ -1,0 +1,3 @@
+ÏÂÔØµØÖ·
+https://ftp.isc.org/isc/bind9/
+ftp://ftp.isc.org/isc/
